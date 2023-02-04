@@ -121,6 +121,10 @@ let catalogue = [
         title: "阴影展示"
     },
     {
+        name: 'tree',
+        title: "canvas树"
+    },
+    {
         name: 'lx',
         title: "练习"
     },
